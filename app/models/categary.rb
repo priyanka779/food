@@ -1,0 +1,3 @@
+class Categary < ApplicationRecord
+    has_many :items
+end
